@@ -1,0 +1,134 @@
+IP	attacks	hostname	asNumber	asOrg	org	ispName	cityName	countryCode	countryName
+5.135.158.101	cloud.tor.ninja	16276	OVH SAS	OVH SAS	OVH SAS			
+5.196.1.129	tor.thd.ninja	16276	OVH SAS	OVH SAS	OVH SAS			
+5.249.145.164	torexit-readme.balist.es	31034	Aruba S.p.A.	Aruba S.p.A. - Cloud Services Farm	Aruba S.p.A. - Cloud Services Farm			
+31.185.104.19	tor-exit-relay.anonymizing-proxy.digitalcourage.de	43847	Martin Prager trading as NbIServ	Martin Prager trading as NbIServ	Martin Prager trading as NbIServ			
+37.220.35.202	tor-exit.r3.apx.pub	58073	YISP B.V.	YISP Colo	YISP Colo			
+45.33.48.204	this-is-a-tor-exit-node-1.ntp1.pw	63949	Linode, LLC	Linode, LLC	Linode, LLC			
+46.28.68.158	exit2.tor-proxy.net.ua	15626	ITL Company	Uaservers Network	Uaservers Network		UA	Ukraine
+35.0.127.52	tor-exit.eecs.umich.edu	237	Merit Network Inc.	University of Michigan	University of Michigan			
+46.165.223.217	tor-elpresidente.piraten-nds.de	28753	Leaseweb Deutschland GmbH	Leaseweb Deutschland GmbH	Leaseweb Deutschland GmbH			
+46.165.230.5	tor-exit.dhalgren.org	28753	Leaseweb Deutschland GmbH	Leaseweb Deutschland GmbH	Leaseweb Deutschland GmbH			
+46.182.106.190	tor-exit.critical.cat	58073	YISP B.V.	YISP B.V.	YISP B.V.			
+51.255.33.0	tor-exit.talyn.se	16276	OVH SAS	OVH SAS	OVH SAS			
+51.255.202.66	tor2.asmer.com.ua	16276	OVH SAS	OVH SAS	OVH SAS			
+62.210.129.246	relay1.tor.openinternet.io	12876	Online S.a.s.	ONLINE SAS	ONLINE SAS			
+64.113.32.29	tor.t-3.net	15154	Specialized Bulletin Board Systems	Specialized Bulletin Board Systems	Specialized Bulletin Board Systems			
+66.180.193.219	tor-proxy.die.net	11051	Cyberverse, Inc.	Cyberverse	Cyberverse			
+80.240.139.111	tor.idolf.dk	200130	Digital Ocean, Inc.	Digital Ocean	Digital Ocean			
+85.143.219.211	tor-exit.demfloro.ru	201848	Trader soft LLC	Trader soft LLC	Trader soft LLC			
+88.198.14.171	tor1.piratenpartei-bayern.de	24940	Hetzner Online GmbH	Hetzner Online AG	Hetzner Online AG	Nuremberg	DE	Germany
+89.163.237.45	tor1.mysec-arch.net	24961	myLoc managed IT AG	myLoc managed IT AG	myLoc managed IT AG		DE	Germany
+89.187.142.208	exit1.torproxy.org	35592	Coolhousing s.r.o.	Coolhousing s.r.o.	Coolhousing s.r.o.			
+89.187.144.122	cz.tor-exit.neelc.org	35592	Coolhousing s.r.o.	Coolhousing s.r.o.	Coolhousing s.r.o.			
+91.121.230.209	exit0.radia.tor-relays.net	16276	OVH SAS	University of New South Wales Tim Wilson-Brown	University of New South Wales Tim Wilson-Brown		FR	France
+91.146.121.3	tor-exit.brmlab.cz	198031	Trustica s.r.o.	Trustica s.r.o.	Trustica s.r.o.			
+91.213.8.236	torsrvs.snydernet.net	48031	PE Ivanov Vitaliy Sergeevich	Hosting Solutions Ltd.	Hosting Solutions Ltd.			
+91.213.8.84	torsrvn.snydernet.net	48031	PE Ivanov Vitaliy Sergeevich	Hosting Solutions Ltd.	Hosting Solutions Ltd.			
+91.219.236.218	tor-exit-01.1d4.us	56322	ServerAstra Kft.	ServerAstra Kft.	ServerAstra Kft.			
+91.228.151.52	tor-exit.rommelbak.nl	31019	Paulus M. Hoogsteder trading as Meanie	Paulus M. Hoogsteder trading as Meanie	Paulus M. Hoogsteder trading as Meanie		NL	Netherlands
+92.222.6.12	tor.xx.or.at	16276	OVH SAS	OVH SAS	OVH SAS			
+92.222.103.234	tor-exit.insane.us.to	16276	OVH SAS	OVH SAS	OVH SAS	Paris	FR	France
+93.174.90.30	2.shulgin.nl.torexit.haema.co.uk	29073	Quasi Networks LTD.	Quasi Networks LTD.	Quasi Networks LTD.		SC	Seychelles
+93.184.66.227	torsrva.snydernet.net	29405	VNET a.s.	VNET a.s	VNET a.s	Bratislava	SK	Slovak Republic
+94.102.49.175	tor-exit.nip.su	29073	Quasi Networks LTD.	Novogara LTD	Novogara LTD		SC	Seychelles
+94.142.242.84	tor-exit-1.zenger.nl	8283	Netwerkvereniging Coloclue	Netwerkvereniging Coloclue	Netwerkvereniging Coloclue			
+95.130.11.147	tor-exit-readme.manalyzer.org	196689	Digicube sas	Hosting Customers	Hosting Customers			
+106.187.37.101	tor.xz.je	2516	KDDI CORPORATION	Linode	Linode			
+107.182.131.117	tor3.dpsi.jp	62638	Query Foundry, LLC	Query Foundry, LLC	Query Foundry, LLC			
+107.181.174.84	us-west.tor-exit.neelc.org	46562	Total Server Solutions L.L.C.	Total Server Solutions L.L.C.	Total Server Solutions L.L.C.			
+108.166.168.158	tor.exit-no.de	13354	EBL Global Networks, Inc.	EBL Global Networks	EBL Global Networks	Garland	US	United States
+109.163.234.5	hessel3.torservers.net	3223	Voxility S.R.L.	Voxility S.R.L.	Voxility S.R.L.			
+109.74.151.149	torsrvu.snydernet.net	29405	VNET a.s.	VNET a.s.	VNET a.s.	Bratislava	SK	Slovak Republic
+109.163.234.8	edwardsnowden1.torservers.net	3223	Voxility S.R.L.	Voxility S.R.L.	Voxility S.R.L.			
+128.52.128.105	tor-exit.csail.mit.edu	3	Massachusetts Institute of Technology	Massachusetts Institute of Technology	Massachusetts Institute of Technology			
+128.153.145.125	tor-exit.cslabs.clarkson.edu.145.153.128.in-addr.arpa	92	Clarkson University	Clarkson University	Clarkson University			
+146.185.177.103	tor-exit.ohdoom.net	undefined	undefined	Digital Ocean	Digital Ocean			
+149.56.223.241	exit0.liskov.tor-relays.net	16276	OVH SAS	OVH Hosting	OVH Hosting			
+148.251.255.92	tor-exit.gcpd.biz	24940	Hetzner Online GmbH	HETZNER	HETZNER			
+149.56.229.17	3.tor.exit.babylon.network	16276	OVH SAS	OVH Hosting	OVH Hosting			
+158.130.0.242	tor-exit-node.seas.upenn.edu	55	University of Pennsylvania	University of Pennsylvania	University of Pennsylvania			
+162.247.72.27	turing.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.72.199	jaffer.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.72.200	kiriakou.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.72.201	kunstler.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.72.202	djb.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.72.217	perry.fellwock.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.72.216	phoolandevi.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.73.204	billsf.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+162.247.73.206	rosaluxemburg.tor-exit.calyxinstitute.org	4224	The Calyx Institute	The Calyx Institute	The Calyx Institute			
+163.172.135.172	node1.tor.angristan.xyz	12876	Online S.a.s.	Scaleway	Scaleway		FR	France
+163.172.136.101	tor.ohundred.com	12876	Online S.a.s.	Scaleway	Scaleway			
+163.172.209.46	watchme.tor-exit.network	12876	Online S.a.s.	Online SAS Nl	Online SAS Nl			
+171.25.193.20	tor-exit0-readme.dfri.se	198093	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter			
+171.25.193.25	tor-exit5-readme.dfri.se	198093	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter			
+171.25.193.132	tor-exit6-readme.dfri.se	198093	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter			
+171.25.193.77	tor-exit1-readme.dfri.se	198093	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter			
+171.25.193.78	tor-exit4-readme.dfri.se	198093	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter			
+173.254.216.66	exit-01a.noisetor.net	8100	QuadraNet, Inc	QuadraNet	QuadraNet			
+171.25.193.235	tor-exit3-readme.dfri.se	198093	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter	Foreningen for digitala fri- och rattigheter			
+176.10.104.243	tor2e1.digitale-gesellschaft.ch	51395	SOFTplus Entwicklungen GmbH	Datasource AG	Datasource AG			
+176.10.107.180	torexit.schokomil.ch	51395	SOFTplus Entwicklungen GmbH	Datasource AG	Datasource AG			
+176.58.100.98	tor-exit-node.gertrude.stuken.me	63949	Linode, LLC	Linode	Linode			
+176.31.7.241	parachute-tor-exit.org	16276	OVH SAS	OVH SAS	OVH SAS		FR	France
+178.17.170.124	torrelayslamarre.exitnode	43289	I.C.S. Trabia-Network S.R.L.	trabia network	trabia network			
+178.17.170.164	torsrv1.snydernet.net	43289	I.C.S. Trabia-Network S.R.L.	trabia network	trabia network			
+178.17.174.10	torsrvq.snydernet.net	43289	I.C.S. Trabia-Network S.R.L.	trabia network	trabia network			
+178.17.174.99	6.tor.exit.babylon.network	43289	I.C.S. Trabia-Network S.R.L.	trabia network	trabia network	Chisinau	MD	Republic of Moldova
+178.32.53.94	tor-exit.scharmerlaw.com	16276	OVH SAS	OVH	OVH			
+178.175.131.194	torsrv6.snydernet.net	43289	I.C.S. Trabia-Network S.R.L.	trabia network	trabia network			
+178.239.167.15	tor-relay.m5i.uk	64474	M5i Limited	Bandwidth Technologies Ltd	Bandwidth Technologies Ltd		GB	United Kingdom
+185.11.180.67	exit.norway.tor-node.net	16234	Stayon AS	Stayon AS	Stayon AS			
+185.17.184.228	tor-exit-node.xzyqvk.co.uk	60781	LeaseWeb Netherlands B.V.	LeaseWeb Netherlands B.V.	LeaseWeb Netherlands B.V.		NL	Netherlands
+185.34.33.2	tor.laquadrature.net	39389	Cursys Sarl	Octopuce s.a.r.l.	Octopuce s.a.r.l.			
+185.38.14.171	tor-exit.r2.apx.pub	58073	YISP B.V.	YISP B.V.	YISP B.V.			
+185.38.14.215	tor-exit.r1.apx.pub	58073	YISP B.V.	YISP B.V.	YISP B.V.			
+178.217.187.39	tor-exit.xshells.net	51290	Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski	Hosteam S.c. Tomasz Groszewski Bartosz Waszak Luka	Hosteam S.c. Tomasz Groszewski Bartosz Waszak Luka			
+185.36.100.145	tor-proxy-readme.cloudexit.eu	62403	Disk Group Ltd.	Disk Group Ltd.	Disk Group Ltd.			
+185.69.168.112	tor.exit.node.dreamhack.se	59835	Dreamhack AB	Dreamhack AB	Dreamhack AB		SE	Sweden
+185.129.62.62	tor01.zencurity.dk	57860	Zencurity ApS	Zencurity ApS	Zencurity ApS			
+185.129.62.63	tor02.zencurity.dk	57860	Zencurity ApS	Zencurity ApS	Zencurity ApS			
+188.126.81.155	tor-exit.se.partyvan.eu	42708	Portlane AB	Portlane AB	Portlane AB			
+193.90.12.86	tor-1.multisec.no	2116	Broadnet AS	Broadnet AS	Broadnet AS			
+193.90.12.87	tor-2.multisec.no	2116	Broadnet AS	Broadnet AS	Broadnet AS			
+193.90.12.88	tor-3.multisec.no	2116	Broadnet AS	Broadnet AS	Broadnet AS			
+193.15.16.4	tor1.modio.se	1257	TELE2	Tele2 SWIPnet	Tele2 SWIPnet			
+193.111.136.162	10.tor.exit.babylon.network	24961	myLoc managed IT AG	myLoc managed IT AG	myLoc managed IT AG			
+193.90.12.89	tor-4.multisec.no	2116	Broadnet AS	Broadnet AS	Broadnet AS			
+193.90.12.90	tor-5.multisec.no	2116	Broadnet AS	Broadnet AS	Broadnet AS			
+195.154.8.111	torrelay9.tomhek.net	12876	Online S.a.s.	Iliad-Entreprises	Iliad-Entreprises		FR	France
+195.154.90.122	argenla.tor-exit.network	12876	Online S.a.s.	Iliad-Entreprises	Iliad-Entreprises			
+198.58.107.53	tor.tyler.zone	63949	Linode, LLC	Linode	Linode			
+198.50.200.135	tor-exit.sonsofodin.space	16276	OVH SAS	OVH Hosting	OVH Hosting			
+198.96.155.3	exit.tor.uwaterloo.ca	12093	University of Waterloo	University of Waterloo	University of Waterloo			
+193.171.202.150	tor2r.ins.tor.net.eu.org	1853	ACONET	Johannes Kepler University	Johannes Kepler University			
+199.127.226.150	tor.tocici.com	14613	TOCICI LLC	Tocici LLC	Tocici LLC			
+199.87.154.251	torlesnet2.relay.coldhak.com	18451	LES.NET	LES.NET	LES.NET			
+199.87.154.255	tor.les.net	18451	LES.NET	TOR Exit Gateway	TOR Exit Gateway			
+204.11.50.131	tor-exit.boingboing.net	30176	Priority Colo Inc	Priority Colo	Priority Colo			
+204.85.191.30	tor00.telenet.unc.edu	36850	University of North Carolina at Chapel Hill	University of North Carolina at Chapel Hill	University of North Carolina at Chapel Hill			
+209.133.66.214	exit-tor.tykva.info	6461	Zayo Bandwidth Inc	Zayo Bandwidth	Zayo Bandwidth			
+209.249.180.198	tor-exit.kartofelzik.info	6461	Zayo Bandwidth Inc	Zayo Bandwidth	Zayo Bandwidth			
+212.47.246.21	tor4thepeople1.torexitnode.net	12876	Online S.a.s.	Scaleway	Scaleway			
+212.47.227.72	tor-exit.hermes.bendellar.com	12876	Online S.a.s.	Scaleway	Scaleway		FR	France
+212.117.180.130	5.tor.exit.babylon.network	5577	root SA	root SA	root SA			
+216.218.134.12	tor-exit.altsci.com	6939	Hurricane Electric, Inc.	Hurricane Electric	Hurricane Electric			
+216.239.90.19	tor-gateway.vif.com	10996	Concorde inc.	VIF Internet	VIF Internet			
+217.13.197.5	tor-exit-node.tk	15657	Speedbone Internet & Connectivity GmbH	Speedbone Internet & Connectivity GmbH	Speedbone Internet & Connectivity GmbH			
+217.115.10.131	tor1.anonymizer.ccc.de	31078	Netsign Networks GmbH	Netsign Networks GmbH	Netsign Networks GmbH			
+217.115.10.132	tor2.anonymizer.ccc.de	31078	Netsign Networks GmbH	Netsign Networks GmbH	Netsign Networks GmbH			
+217.12.204.104	exit1.tor-proxy.net.ua	15626	ITL Company	ITL Company	ITL Company	Kharkiv	UA	Ukraine
+109.163.234.2	hessel0.torservers.net	3223	Voxility S.R.L.	Voxility S.R.L.	Voxility S.R.L.			
+141.138.141.208	tor-exit-141-138-141-208.colo.transip.net	20857	Transip B.V.	Transip B.V.	Transip B.V.			
+178.17.170.201	7.tor.exit.babylon.network	43289	I.C.S. Trabia-Network S.R.L.	trabia network	trabia network	Chisinau	MD	Republic of Moldova
+185.128.40.220	tor-exit.koneko.co	60392	Grupo Panaglobal 15 S.A	Grupo Panaglobal 15 S.A	Grupo Panaglobal 15 S.A		CH	Switzerland
+198.50.200.131	tor-exit-readme.jessevictors.com	16276	OVH SAS	OVH Hosting	OVH Hosting		PA	Panama
+207.244.97.183	exit.manassas.tor-node.net	30633	Leaseweb USA, Inc.	Leaseweb USA	Leaseweb USA	Manassas	US	United States
+209.222.77.220	tor-relay.redteam.net	46844	Sharktech	Sharktech	Sharktech			
+204.194.29.4	TOR-EXIT.CYLAB.CMU.EDU	9	Carnegie Mellon University	Carnegie Mellon University	Carnegie Mellon University			
+23.239.10.144	tor.shamm.as	63949	Linode, LLC	Linode	Linode	Newark	US	United States
+64.137.178.3	www.torproject.org	55053	2267921 ONTARIO LTD	KW Datacenter	KW Datacenter			
+71.19.157.127	tor.svc.explicate.org	47066	prgmr.com, Inc.	prgmr.com	prgmr.com			
+89.187.145.103	tor-exit.illusional.me	35592	Coolhousing s.r.o.	Coolhousing s.r.o.	Coolhousing s.r.o.		CZ	Czechia
+94.103.175.86	tor-exit.squirrel.theremailer.net	48039	GHOSTnet GmbH	GHOSTnet GmbH	GHOSTnet GmbH			
+94.242.57.2	tor-exit.becquerel.org	43317	OOO Fishnet Communications	vstoike.com vps clients	vstoike.com vps clients			
