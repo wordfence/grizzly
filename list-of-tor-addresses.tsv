@@ -1,4 +1,4 @@
-IP	attacks	hostname	asNumber	asOrg	org	ispName	cityName	countryCode	countryName
+IP	hostname	asNumber	asOrg	org	ispName	cityName	countryCode	countryName
 5.135.158.101	cloud.tor.ninja	16276	OVH SAS	OVH SAS	OVH SAS			
 5.196.1.129	tor.thd.ninja	16276	OVH SAS	OVH SAS	OVH SAS			
 5.249.145.164	torexit-readme.balist.es	31034	Aruba S.p.A.	Aruba S.p.A. - Cloud Services Farm	Aruba S.p.A. - Cloud Services Farm			
